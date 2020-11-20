@@ -3,11 +3,11 @@ DrosScript is a private teacher management software with parent and student and 
 
 # Teacher Password is
 - [147852]
-- if you wanna chage it just login to teacher account and pres over user icon it will display
+- if you wanna chage it just login to teacher account and press over user icon it will display
 SETTINGS button click on it and that's it 
 # carousel images
 - img/carousel
-and replace it or upload what ever you want even 100 image :D
+and replace it or upload what ever you want.
 
 # csv file for users
 - check this example file
