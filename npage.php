@@ -46,7 +46,7 @@ if (empty($_GET["page"])){header("Location: index.php");exit();}
 </head>
 
 <body class="bg-dark" id="page-top">
-	<h1 class="text-light text-center"><b><?php if(empty($_GET["success"]) && !empty($_GET["warning"])){echo htmlspecialchars($_GET["warning"]) ;}else{if(!empty($_GET["success"])){ echo htmlspecialchars($_GET["success"]);}}?></b></h1>
+	<h1 class="text-light text-center"><b><?php if(empty($_GET["success"]) && !empty($_GET["warning"])){echo htmlspecialchars($_GET["warning"], ENT_QUOTES, 'UTF-8') ;}else{if(!empty($_GET["success"])){ echo htmlspecialchars($_GET["success"], ENT_QUOTES, 'UTF-8');}}?></b></h1>
 </body>
 
 </html>
