@@ -12,3 +12,7 @@ and replace it or upload what ever you want even 100 image :D
 # csv file for users
 - check this example file
  users.csv
+# License
+- The DrosScript is open-sourced software licensed with some cundtion like:
+
+[Under Islamic law laws]
